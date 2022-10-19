@@ -7,7 +7,7 @@ namespace Happy
     static class global
     {
         public static bool authorize;
-        public static string USER_ROOT = "93620726";
+        public static string USER_ROOT = "";
         public static string TITLE = "Happy";
         public static string FILE = "enc";
         public static string SYSTEM_INI = System.AppDomain.CurrentDomain.BaseDirectory + "\\HSENCENT-H1P-2M4S";
